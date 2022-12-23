@@ -1,0 +1,34 @@
+body{
+    background-color: darkkhaki;
+}
+
+.header_div{
+    background-color:burlywood;
+}
+
+.header_div p{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size:24px;
+    
+}
+.footer_center{
+    background-color: burlywood;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-weight:bold;
+    text-shadow: 5px 5px 5px grey;
+}
+
+#start{
+    margin-top: 20px;
+    width:150px;
+}
+#hearing{
+   color:darkgreen;
+}
+#Accuracy{
+    color:darkgreen;
+}
